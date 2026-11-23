@@ -13,4 +13,4 @@ license-files = ["LICENSE"]
 dependencies = ["aiohttp>=3.9", "yarl>=1.9"]
 
 [project.urls]
-Source = "https://github.com/Leo2442926161/heiman-local-client"
+Source = "https://github.com/Leo2442926161/Heiman_local"
