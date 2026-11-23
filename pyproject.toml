@@ -1,0 +1,13 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "heiman-local-client"
+version = "0.1.0"
+description = "Asynchronous LAN client for a Heiman Wi-Fi switch"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+license-files = ["LICENSE"]
+dependencies = ["aiohttp>=3.9", "yarl>=1.9"]
